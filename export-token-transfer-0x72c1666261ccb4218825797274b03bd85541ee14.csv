@@ -1,0 +1,2 @@
+﻿Transaction Hash,Status,Method,BlockNo,DateTime (UTC),From,From_Nametag,To,To_Nametag,Amount,Value (USD),Token
+"0x4df27e61dd63507b1c54e2c62c3aa7044270e69519eafb960e7cddeca1c6b549","Success","Transfer","42932289","2024-10-08 08:38:40","0xf89d7b9c864f589bbF53a82105107622B35EaA40","Bybit: Hot Wallet","0x72C1666261cCb4218825797274b03Bd85541eE14","","54.522","$54.49","Binance-Peg BSC-USD (BSC-USD)"
