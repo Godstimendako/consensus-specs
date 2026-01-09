@@ -3,3 +3,4 @@ web3==5.4.0
 pytest==3.6.1
 # The eth2spec
 ../../
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
